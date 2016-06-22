@@ -1,0 +1,2 @@
+# HCS
+HIDRA Control System
