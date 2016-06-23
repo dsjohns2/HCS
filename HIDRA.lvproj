@@ -23,6 +23,9 @@
 		<Item Name="Data" Type="Folder" URL="../Data">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Other" Type="Folder" URL="../Other">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Control.ctl" Type="VI" URL="../Control.ctl"/>
 		<Item Name="States.ctl" Type="VI" URL="../States.ctl"/>
 		<Item Name="Data.ctl" Type="VI" URL="../Data.ctl"/>
