@@ -1,2 +1,3 @@
 Ideas to Implement/Bugs to Fix:
--Bring timer and systems FP reads into parallel while loop
+-progress bar through steps
+-keep record of pressure, auto generate graph
