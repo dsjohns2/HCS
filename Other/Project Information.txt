@@ -1,3 +1,0 @@
-This is the HIDRA Control System (HCS).
-This project was developed by Dan Johnson (dsjohns2@illinois.edu) at the University of Illinois.
-Project created: 5/20/2016

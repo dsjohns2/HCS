@@ -1,0 +1,9 @@
+Ideas to Implement/Bugs to Fix:
+-progress bar through steps
+-auto generate pressure graph
+-disable continue buttons in steps when condition is not met (like pressure is not low enough)
+
+Completed:
+-keep record of pressure
+-make continuously running while loop record the pressure (and other?) data
+-rename vis with underscores

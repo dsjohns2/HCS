@@ -1,0 +1,5 @@
+Machine Operator(s): Dan Johnson
+Experiment Purpose: Test
+Experiment Start Time: 6/24/2016 10:18:54 PM
+Experiment Time Elapsed: 0 hours, 0 minutes, 38 seconds
+Diagnostics Used: | B-dot 1 || B-dot 2 |

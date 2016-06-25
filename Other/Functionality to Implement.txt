@@ -1,3 +1,0 @@
-Ideas to Implement/Bugs to Fix:
--progress bar through steps
--keep record of pressure, auto generate graph
