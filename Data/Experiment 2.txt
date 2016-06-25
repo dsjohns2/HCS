@@ -1,5 +1,0 @@
-Machine Operator(s): Dan Johnson
-Experiment Purpose: Test
-Experiment Start Time: 6/24/2016 7:20:58 PM
-Experiment Time Elapsed: 0 hours, 1 minute, 7 seconds
-Diagnostics Used: | Rogowski 1 || Rogowski 2 || Rogowski 3 |

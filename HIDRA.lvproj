@@ -11,25 +11,25 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Step Vis" Type="Folder" URL="../Step Vis">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
-		<Item Name="Front Panel Imagery" Type="Folder" URL="../Front Panel Imagery">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
-		<Item Name="FP Mocks" Type="Folder" URL="../FP Mocks">
-			<Property Name="NI.DISK" Type="Bool">true</Property>
-		</Item>
 		<Item Name="Data" Type="Folder" URL="../Data">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Other" Type="Folder" URL="../Other">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Helper Functions" Type="Folder" URL="../Helper Functions">
+		<Item Name="Type_Defs" Type="Folder" URL="../Type_Defs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Type_Defs" Type="Folder" URL="../Type_Defs">
+		<Item Name="FP_Mocks" Type="Folder" URL="../FP_Mocks">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="Front_Panel_Imagery" Type="Folder" URL="../Front_Panel_Imagery">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="Helper_Functions" Type="Folder" URL="../Helper_Functions">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="Step_Vis" Type="Folder" URL="../Step_Vis">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="HIDRA.vi" Type="VI" URL="../HIDRA.vi"/>

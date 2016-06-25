@@ -1,5 +1,0 @@
-Machine Operator(s): 
-Experiment Purpose: 
-Experiment Start Time: 6/24/2016 9:25:03 PM
-Experiment Time Elapsed: 0 hours, 0 minutes, 35 seconds
-Diagnostics Used: 
