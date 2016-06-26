@@ -2,6 +2,10 @@ Ideas to Implement/Bugs to Fix:
 -progress bar through steps
 -auto generate pressure graph
 -disable continue buttons in steps when condition is not met (like pressure is not low enough)
+-data to write: when systems bools are on and off
+-auto continue after wait if fp read looks good (i.e. if pressure is low enough)
+-condense checking steps (compressed air is already displayed and is then checked in a step)
+-give synopsis of experiment at end (pressure data chart, ...)
 
 Completed:
 -keep record of pressure
