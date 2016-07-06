@@ -1,4 +1,7 @@
-Ideas to Implement/Bugs to Fix:
+Bugs to Fix:
+-fix paths to matlab function call
+
+Ideas to Implement:
 -progress bar through steps
 -auto generate pressure graph
 -disable continue buttons in steps when condition is not met (like pressure is not low enough)
