@@ -6,6 +6,7 @@ Ideas to Implement/Bugs to Fix:
 -auto continue after wait if fp read looks good (i.e. if pressure is low enough)
 -condense checking steps (compressed air is already displayed and is then checked in a step)
 -give synopsis of experiment at end (pressure data chart, ...)
+-open vacuum plot picture, not the plot in matlab (could be quicker?)
 
 Completed:
 -keep record of pressure

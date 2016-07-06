@@ -32,6 +32,9 @@
 		<Item Name="Step_Vis" Type="Folder" URL="../Step_Vis">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="MATLAB_Scripts" Type="Folder" URL="../MATLAB_Scripts">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="HIDRA.vi" Type="VI" URL="../HIDRA.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
