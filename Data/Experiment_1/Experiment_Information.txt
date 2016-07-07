@@ -1,0 +1,5 @@
+Machine Operator(s): 
+Experiment Purpose: 
+Experiment Start Time: 7/6/2016 9:01:07 PM
+Experiment Time Elapsed: 0 hours, 0 minutes, 45 seconds
+Diagnostics Used: | Lanmuir Probe |
