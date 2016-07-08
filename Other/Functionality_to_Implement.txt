@@ -1,5 +1,5 @@
 Bugs to Fix:
--fix paths to matlab function call
+
 
 Ideas to Implement:
 -progress bar through steps
@@ -15,3 +15,4 @@ Completed:
 -keep record of pressure
 -make continuously running while loop record the pressure (and other?) data
 -rename vis with underscores
+-fix paths to matlab function call

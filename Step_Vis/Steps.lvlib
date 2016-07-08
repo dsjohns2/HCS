@@ -9,10 +9,10 @@
 </Property>
 	<Item Name="Compressed_air_state_check.vi" Type="VI" URL="../Compressed_air_state_check.vi"/>
 	<Item Name="Exhaust_ventillator_check.vi" Type="VI" URL="../Exhaust_ventillator_check.vi"/>
-	<Item Name="Final_check.vi" Type="VI" URL="../Final_check.vi"/>
 	<Item Name="Helical_power_supply_check.vi" Type="VI" URL="../Helical_power_supply_check.vi"/>
 	<Item Name="Helical_rectifier_check.vi" Type="VI" URL="../Helical_rectifier_check.vi"/>
 	<Item Name="Interlock_check.vi" Type="VI" URL="../Interlock_check.vi"/>
+	<Item Name="Last_check.vi" Type="VI" URL="../Last_check.vi"/>
 	<Item Name="Open_gas_valve.vi" Type="VI" URL="../Open_gas_valve.vi"/>
 	<Item Name="Pick_diagnostics.vi" Type="VI" URL="../Pick_diagnostics.vi"/>
 	<Item Name="Pulse.vi" Type="VI" URL="../Pulse.vi"/>
