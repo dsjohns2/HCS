@@ -1,0 +1,5 @@
+Machine Operator(s): 
+Experiment Purpose: 
+Experiment Start Time: 8/6/2017 8:43:54 PM
+Experiment Time Elapsed: 0 hours, 1 minute, 6 seconds
+Diagnostics Used: | Rogowski 2 || Rogowski 3 |
