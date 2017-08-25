@@ -1,0 +1,5 @@
+Machine Operator(s): Daniel Andruczyk
+Experiment Purpose: HIDRA control system tests
+Experiment Start Time: 8/25/2017 3:43:20 PM
+Experiment Time Elapsed: 0 hours, 8 minutes, 3 seconds
+Diagnostics Used: | Lanmuir Probe || Rogowski 1 || B-dot 1 |
