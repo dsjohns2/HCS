@@ -1,5 +1,0 @@
-Machine Operator(s): Dan
-Experiment Purpose: shot
-Experiment Start Time: 8/9/2016 9:01:21 AM
-Experiment Time Elapsed: 0 hours, 16 minutes, 40 seconds
-Diagnostics Used: | Lanmuir Probe || Rogowski 2 || B-dot 1 |

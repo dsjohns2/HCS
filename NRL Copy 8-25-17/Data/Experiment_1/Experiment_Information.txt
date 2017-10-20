@@ -1,5 +1,0 @@
-Machine Operator(s): Dan Johnson
-Experiment Purpose: First test of HIDRA Control System
-Experiment Start Time: 8/10/2017 3:26:10 PM
-Experiment Time Elapsed: 0 hours, 0 minutes, 36 seconds
-Diagnostics Used: 

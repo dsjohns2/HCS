@@ -8,21 +8,33 @@
 
 </Property>
 	<Item Name="Compressed_air_state_check.vi" Type="VI" URL="../Compressed_air_state_check.vi"/>
+	<Item Name="Control_panel_setup.vi" Type="VI" URL="../Control_panel_setup.vi"/>
+	<Item Name="Control_panel_takedown.vi" Type="VI" URL="../Control_panel_takedown.vi"/>
 	<Item Name="Exhaust_ventillator_check.vi" Type="VI" URL="../Exhaust_ventillator_check.vi"/>
 	<Item Name="Helical_power_supply_check.vi" Type="VI" URL="../Helical_power_supply_check.vi"/>
 	<Item Name="Helical_rectifier_check.vi" Type="VI" URL="../Helical_rectifier_check.vi"/>
 	<Item Name="Interlock_check.vi" Type="VI" URL="../Interlock_check.vi"/>
 	<Item Name="Last_check.vi" Type="VI" URL="../Last_check.vi"/>
+	<Item Name="Lock_cage.vi" Type="VI" URL="../Lock_cage.vi"/>
 	<Item Name="Open_gas_valve.vi" Type="VI" URL="../Open_gas_valve.vi"/>
 	<Item Name="Pick_diagnostics.vi" Type="VI" URL="../Pick_diagnostics.vi"/>
 	<Item Name="Pulse.vi" Type="VI" URL="../Pulse.vi"/>
 	<Item Name="Reset_radiation_detector.vi" Type="VI" URL="../Reset_radiation_detector.vi"/>
 	<Item Name="Set_magnetrons_to_standby.vi" Type="VI" URL="../Set_magnetrons_to_standby.vi"/>
 	<Item Name="Set_power_supply_to_standby.vi" Type="VI" URL="../Set_power_supply_to_standby.vi"/>
+	<Item Name="Set_Pulse.vi" Type="VI" URL="../Set_Pulse.vi"/>
 	<Item Name="Set_up_controls.vi" Type="VI" URL="../Set_up_controls.vi"/>
 	<Item Name="Start_ramp_generator.vi" Type="VI" URL="../Start_ramp_generator.vi"/>
 	<Item Name="Toroidal_power_supply_check.vi" Type="VI" URL="../Toroidal_power_supply_check.vi"/>
 	<Item Name="Toroidal_rectifier_check.vi" Type="VI" URL="../Toroidal_rectifier_check.vi"/>
+	<Item Name="Turn_off_400_fuse_box.vi" Type="VI" URL="../Turn_off_400_fuse_box.vi"/>
+	<Item Name="Turn_off_pump.vi" Type="VI" URL="../Turn_off_pump.vi"/>
+	<Item Name="Turn_on_400_fuse_box.vi" Type="VI" URL="../Turn_on_400_fuse_box.vi"/>
+	<Item Name="Turn_on_480_HIDRA_breakers.vi" Type="VI" URL="../Turn_on_480_HIDRA_breakers.vi"/>
+	<Item Name="Turn_on_breaker_35,37.vi" Type="VI" URL="../Turn_on_breaker_35,37.vi"/>
+	<Item Name="Turn_on_helical_rectifier.vi" Type="VI" URL="../Turn_on_helical_rectifier.vi"/>
+	<Item Name="Turn_on_pump.vi" Type="VI" URL="../Turn_on_pump.vi"/>
+	<Item Name="Turn_on_toroidal_rectifier.vi" Type="VI" URL="../Turn_on_toroidal_rectifier.vi"/>
 	<Item Name="Vacuum_pressure_check.vi" Type="VI" URL="../Vacuum_pressure_check.vi"/>
 	<Item Name="Water_pressure_check.vi" Type="VI" URL="../Water_pressure_check.vi"/>
 </Library>

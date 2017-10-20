@@ -1,5 +1,0 @@
-Machine Operator(s): Andruczyk
-Experiment Purpose: Test of HCS.
-Experiment Start Time: 8/25/2017 3:32:06 PM
-Experiment Time Elapsed: 0 hours, 3 minutes, 17 seconds
-Diagnostics Used: | Lanmuir Probe || Rogowski 1 || B-dot 2 |

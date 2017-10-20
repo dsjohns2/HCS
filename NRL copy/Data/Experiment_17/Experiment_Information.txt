@@ -1,5 +1,0 @@
-Machine Operator(s): dan
-Experiment Purpose: test
-Experiment Start Time: 8/9/2017 3:17:58 PM
-Experiment Time Elapsed: 0 hours, 1 minute, 19 seconds
-Diagnostics Used: | Rogowski 2 || B-dot 1 |

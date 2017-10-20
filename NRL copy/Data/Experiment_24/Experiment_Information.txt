@@ -1,5 +1,0 @@
-Machine Operator(s): 
-Experiment Purpose: 
-Experiment Start Time: 8/9/2017 5:14:07 PM
-Experiment Time Elapsed: 0 hours, 1 minute, 31 seconds
-Diagnostics Used: | B-dot 1 |
